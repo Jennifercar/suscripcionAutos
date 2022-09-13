@@ -1,0 +1,50 @@
+.section{
+    background-image: url(https://st4.depositphotos.com/1637793/26037/i/600/depositphotos_260375994-stock-photo-car-tires-and-wheels-with.jpg);
+background-position: center;
+background-size: cover;
+
+}
+
+h1{
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px;
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #FFFFFF;
+text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #db9bbb 0px 0px 20px, #e9cada 0px 0px 30px, #150953 0px 0px 40px, #422dff 0px 0px 50px, #FF2D95 0px 0px 75px;
+
+
+}
+
+
+.conteinerForm{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 4px 30px rgb(0 0 0 / 60%);
+    backdrop-filter: blur(9.400000000000006px);
+}
+
+.rowg-3{
+    width: 90%;
+
+}
+.form-label{
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.btnbtn-primary{
+    margin-top: 20px;
+   border-radius: 12px;
+   background-color: rgb(5, 61, 63);
+   font-family: 'Poppins', sans-serif;
+   padding: 10px;
+   color: #FFF;
+   border-style: none;
+   
+}
+
