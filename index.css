@@ -25,6 +25,7 @@ text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #db9bbb 0px
     display: flex;
     justify-content: center;
     box-shadow: 0 4px 30px rgb(0 0 0 / 60%);
+    gap: 20px;
     backdrop-filter: blur(9.400000000000006px);
 }
 
@@ -32,6 +33,7 @@ text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #db9bbb 0px
     width: 90%;
 
 }
+
 .form-label{
     color: #FFFFFF;
     font-family: 'Poppins', sans-serif;
@@ -53,6 +55,7 @@ text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #db9bbb 0px
         width: 80%;
         display: flex;
         justify-content: center;
+        margin: 15px;
     }
 
 }
